@@ -49,9 +49,7 @@ Open `index.html` in your web browser.
 
 If the project uses an API or a development server, follow the instructions required by your implementation.
 
-## 📸 Screenshots
 
-Add a screenshot of your working application here to help visitors understand the project.
 
 ## 🎯 Learning Outcomes
 
